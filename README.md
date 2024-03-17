@@ -8,5 +8,4 @@ Redux Toolkit Query for making API calls, Hero icons for our icons. </p>
 
 <p>//Redux Toolkit Query is powerful data fetching and caching tool. It is designed to simplify common cases for loading data in web application. </p>
 <p> //Redux Toolkit package is intended to be standard way to write Redux Logic.</p>
-
-<br> //ChatEngine is set of frontend and backend components to make building chat experiences easy. </br>
+<br>//ChatEngine is set of frontend and backend components to make building chat experiences easy. </br>
